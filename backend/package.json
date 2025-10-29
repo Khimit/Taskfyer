@@ -1,5 +1,8 @@
 {
   "name": "auth-kit-server",
+  "engines": {
+      "node": ">=22.15.0"
+    },
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
